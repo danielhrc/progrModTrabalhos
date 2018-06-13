@@ -1,3 +1,0 @@
-Como a Classe Funcionario tem mais de uma responsabilidade (calcularPagamento() 
- e descreverFuncionario()), acaba por 
-violar o princípio de responsabilidade única do SOLID
